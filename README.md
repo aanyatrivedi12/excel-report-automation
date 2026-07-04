@@ -34,7 +34,7 @@ zebra striping, and embedded charts.
 1. upload train.csv to Google Colab
 2. run all cells top to bottom
 3. download the Excel file at the end
-
+##yuip
 ---
 This is Project 1 of my ongoing data automation series.
 Still learning but building things along the way.

@@ -24,7 +24,7 @@ cleans it up, and spits out a formatted Excel file automatically.
 ## Tools used
 - Python (pandas, openpyxl)
 - Google Colab
-- Dataset: Superstore Sales — Kaggle
+- Dataset: Superstore Sales -> Kaggle
 
 ## Output
 A 4 sheet Excel report with formatted tables, colored headers, 

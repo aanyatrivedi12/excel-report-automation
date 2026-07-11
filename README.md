@@ -14,6 +14,8 @@ cleans it up, and spits out a formatted Excel file automatically.
 - adds a cover sheet with key numbers like total revenue and top region
 - embeds bar, pie and line charts directly into the Excel file
 
+![Cover sheet preview](monthly_sales.png)
+
 ## What I learned
 - how groupby works (basically a pivot table but in Python)
 - openpyxl for writing and styling Excel files from scratch
